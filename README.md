@@ -1,3 +1,5 @@
+<h3>Este desafio foi um grande marco na minha jornada de aprendizado. Ele me tirou da zona de conforto e me fez lidar com conceitos novos e práticos, principalmente a implementação do DTO (Data Transfer Object), que até então eu nunca havia utilizado.</h3>
+
 ## Desafio — Cadastro de Alunos (Spring Boot + MVC + DTO)
 
 Este projeto é um desafio prático com foco em backend utilizando **Java com Spring Boot**. O objetivo é construir uma API RESTful para gerenciar um sistema simples de **cadastro de alunos**, seguindo o padrão **MVC** e aplicando conceitos de camadas (Controller, Service, Repository e DTO).
