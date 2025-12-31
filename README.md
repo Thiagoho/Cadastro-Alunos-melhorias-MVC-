@@ -4,9 +4,9 @@ Este projeto é um desafio prático com foco em backend utilizando **Java com Sp
 
 ---
 ## Objetivo
-- Criar uma API RESTful utilizando Spring Boot.
-- Implementar boas práticas como uso de DTOs e separação de responsabilidades.
-- Simular as operações básicas de CRUD (Create, Read, Update, Delete).
+Criar uma API RESTful utilizando Spring Boot.<br>
+Implementar boas práticas como uso de DTOs e separação de responsabilidades.<br>
+Simular as operações básicas de CRUD (Create, Read, Update, Delete).<br>
 
 ---
 
@@ -23,11 +23,11 @@ src/main/java/com/desafio/aluno/<br>
 └── service/ # Regras de negócio<br>
 └── AlunoService.java<br>
 ### Tecnologias Utilizadas
-Java 17+
-Spring Boot
-Spring Data JPA
-Banco de Dados H2 (pode ser trocado por MySQL/PostgreSQL)
-Maven
+Java 17+<br>
+Spring Boot<br>
+Spring Data JPA<br>
+Banco de Dados H2 (pode ser trocado por MySQL/PostgreSQL)<br>
+Maven<br>
 Swagger (opcional)
 ### Como executar o projeto
 Clone o repositório:
