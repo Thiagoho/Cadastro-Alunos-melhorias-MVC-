@@ -31,7 +31,7 @@ Maven
 Swagger (opcional)
 ### Como executar o projeto
 Clone o repositório:
-git clone https://github.com/seu-usuario/desafio-cadastro-alunos.git
+git clone https://github.com/Thiagoho/Cadastro-Alunos-melhorias-MVC-
 ### Navegue até o diretório:
 cd desafio-cadastro-alunos
 ### Execute o projeto com:
